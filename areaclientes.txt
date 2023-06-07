@@ -1,4 +1,1 @@
-clientes 
-
-
-Este comando muestra una lista detallada de los commits realizados en el repositorio, incluyendo información como el autor, la fecha, el mensaje del commit y el identificador único del commit.
+Modificacion nueva de los archivos
